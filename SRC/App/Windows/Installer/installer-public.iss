@@ -49,4 +49,3 @@ Filename: "{app}\{#MyAppExeName}"; WorkingDir: "{app}"; Description: "{cm:Launch
 Type: filesandordirs; Name: "{app}\logs\gradcam"
 Type: filesandordirs; Name: "{app}\logs\captures"
 Type: dirifempty; Name: "{app}\logs"
-
