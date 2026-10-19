@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+SRC/logs/
+SRC/Models/Final_Model/
+SRC/App/Windows/App/_internal/
+SRC/App/Windows/Installer/installer.exe
+Documentation/XAI.mp4
